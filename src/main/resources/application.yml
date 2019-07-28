@@ -13,3 +13,5 @@ spring:
   h2:
     console:
       enabled: true
+Server:
+  port: 7788
